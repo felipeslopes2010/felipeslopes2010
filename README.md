@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Java at <a href="https://compsis.com.br/">COMPSIS<a/>
-- 🌱 I’m currently learning Springboot Framework
+- 🌱 I’m doing a Backend Bootcamp using Springboot Framework
 - ⚡ Fun fact: love One Piece
 - 🌟 Feel free to give me any tip
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
