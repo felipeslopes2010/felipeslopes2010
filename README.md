@@ -1,9 +1,11 @@
 ### Olá, seja bem vindo(a) ao meu GitHub 👋
 
 
-- 🔭 I’m currently working on Java 
+- 🔭 I’m currently working with Java at <a href="https://www.https://compsis.com.br/.com.br/">COMPSIS<a/>
 - 🌱 I’m currently learning Springboot Framework
 - ⚡ Fun fact: love One Piece
+- 🌟 Feel free to give me any tip
+- 📫 How to reach me **felipeslopes2010@hotmail.com**
 
 <div align="center">
   <a href="https://github.com/felipeslopes2010">
