@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
 - 🌱 I’m doing a Backend Bootcamp using Springboot Framework
 - ⚡ Fun fact: love One Piece
-- 🌟 (https://felipeslopes2010.github.io/portfolio/)
+- 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
 
 <div align="center">
