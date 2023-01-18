@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) ao meu GitHub 👋
 
 
-- 🔭 I’m currently working with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
+- 🔭 I’m currently studying QA Engineering, worked 2 years with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
 - 🌱 I’m doing a Backend Bootcamp using Springboot Framework
 - ⚡ Fun fact: love One Piece
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
