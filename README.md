@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying QA Engineering, worked 2 years with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
-- 🌱 I’m doing a Backend Bootcamp using Springboot Framework
+- 🌱 I’m doing a QA Bootcamp using Cypress E2E Framework
 - ⚡ Fun fact: love One Piece
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
