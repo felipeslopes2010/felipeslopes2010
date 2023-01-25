@@ -35,6 +35,6 @@
  
   ![Snake animation](https://github.com/felipeslopes2010/felipeslopes2010/blob/output/github-contribution-grid-snake.svg)
   
-  [![Readme Card](https://github-readme-stats-peach-gamma.vercel.app/api/pin/?username=felipeslopes2010&repo=felipeslopes2010)](https://github.com/felipeslopes2010/felipeslopes2010)
+  [![Readme Card](https://github-readme-stats-peach-gamma.vercel.app/api/pin/?username=felipeslopes2010&repo=felipeslopes2010&theme=dracula)](https://github.com/felipeslopes2010/felipeslopes2010)
  
 </div>
