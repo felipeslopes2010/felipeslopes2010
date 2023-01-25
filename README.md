@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/felipeslopes2010">
-  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api?username=felipeslopes2010&show_icons=true&theme=ocean_dark&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api/top-langs/?username=felipeslopes2010&layout=compact&langs_count=7&theme=ocean_dark&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api?username=felipeslopes2010&show_icons=true&theme=ocean_dark&bg_color=00000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api/top-langs/?username=felipeslopes2010&layout=compact&langs_count=7&theme=ocean_dark&bg_color=00000000"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
