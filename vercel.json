@@ -1,4 +1,3 @@
-
 {
   "functions": {
     "api/*.js": {
@@ -9,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://github.com/felipeslopes2010/felipeslopes2010"
+      "destination": "https://github.com/anuraghazra/github-readme-stats"
     }
   ]
 }
