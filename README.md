@@ -7,10 +7,11 @@
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
 
-<div display="flex" align="center" justify="start" gap="4px">
-  <a href="https://github.com/felipeslopes2010"/>
-  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api?username=felipeslopes2010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api/top-langs/?username=felipeslopes2010&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: flex; align-items: center; justify-content: start; gap: 4px;">
+  <a href="https://github.com/felipeslopes2010">
+    <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api?username=felipeslopes2010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github Stats"/>
+    <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api/top-langs/?username=felipeslopes2010&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
