@@ -7,7 +7,7 @@
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
 
-<div align="center">
+<div align="center" justify="center">
   <a href="https://github.com/felipeslopes2010">
   <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api?username=felipeslopes2010&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-peach-gamma.vercel.app/api/top-langs/?username=felipeslopes2010&layout=compact&langs_count=7&theme=dracula"/>
