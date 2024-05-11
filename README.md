@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo(a) ao meu GitHub 👋
 
 
-- 🔭 I’m currently studying QA Engineering, worked 2 years with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
-- 🌱 I’m doing a QA Bootcamp using Cypress E2E Framework
-- ⚡ Fun fact: love One Piece
+- 🔭 I’m currently working as QA Engineering, worked 2 years with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
+- 🌱 I’m doing a React Bootcamp in Rocketseat
+- ⚡ Fun fact: love Haikyuu
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
 
