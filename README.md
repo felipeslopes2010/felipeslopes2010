@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as QA Engineering, worked 2 years with Java Fullstack at <a href="https://compsis.com.br/">COMPSIS<a/>
-- 🌱 I’m doing a React Bootcamp in Rocketseat
+- 🌱 I’m doing a ReactJS Frontend course in Rocketseat
 - ⚡ Fun fact: love Haikyuu
 - 🌟 Portfolio: https://felipeslopes2010.github.io/portfolio/
 - 📫 How to reach me **felipeslopes2010@hotmail.com**
